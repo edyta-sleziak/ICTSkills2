@@ -8,7 +8,7 @@
   "author": "Diarmuid O Connor",
   "license": "ISC",
   "devDependencies": {
-    "@storybook/react": "^4.1.16"
+    "@storybook/react": "^6.5.13"
   },
   "dependencies": {
     "bootstrap": "^4.3.1",
